@@ -89,6 +89,7 @@ To install Devika, follow these steps:
 6. Compile and run the UI server:
    ```
    cd ui/
+   bun install
    bun run dev
    ```
 7. Access the Devika web interface by opening a browser and navigating to `http://127.0.0.1:3000`.
